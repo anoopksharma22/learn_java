@@ -6,4 +6,5 @@ public abstract class Printer {
     public void info(){
         System.out.println("This is printer class");
     }
+    
 }
